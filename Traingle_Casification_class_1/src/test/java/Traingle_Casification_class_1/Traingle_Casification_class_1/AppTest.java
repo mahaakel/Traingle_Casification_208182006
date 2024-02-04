@@ -24,7 +24,7 @@ public class AppTest {
         assertEquals(expected, result.toString());
     }
 	
-	//// Test  for  Triangle 
+	//// Test  for scalene  Triangle 
 	@Test
 	public void scaleneTriangle(){
         int a = 3;
